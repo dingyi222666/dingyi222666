@@ -1,11 +1,15 @@
 ### Hey 👋
 
-一名学生，喜欢码代码，也热爱开源(虽然吧没几个star 
+一名学生，喜欢码代码，无职业。
 
 ### Skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+![Android](https://img.shields.io/badge/-Android-47A69E?&logo=Android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-47A69E?&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-47A69E?&style=flat-square&logo=Kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-47A69E?&logo=Lua&logoColor=white)
+![Python](https://img.shields.io/badge/-Pyhton-47A69E?&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-47A69E?&logo=PHP&logoColor=white)
 
 
 ### Status

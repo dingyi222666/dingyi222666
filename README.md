@@ -4,12 +4,12 @@
 
 ### Skills
 
-![Android](https://img.shields.io/badge/-Android-47A69E?&logo=Android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-47A69E?&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-47A69E?&style=flat-square&logo=Kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-47A69E?&logo=Lua&logoColor=white)
-![Python](https://img.shields.io/badge/-Pyhton-47A69E?&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-47A69E?&logo=PHP&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-192133?&logo=Android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-192133?&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-192133?&style=flat-square&logo=Kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-192133?&logo=Lua&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-192133?&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-192133?&logo=PHP&logoColor=white)
 
 
 ### Status

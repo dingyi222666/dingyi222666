@@ -10,7 +10,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-192133?&logo=PHP&logoColor=white)
 
 
-### Status
+### Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dingyi222666&show_icons=true&icon_color=47A69E&title_color=47A69E)    
 

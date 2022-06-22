@@ -1,4 +1,4 @@
-### Hey Hi there 👋
+## Hey Hi there 👋
 
 ### Skills
 
@@ -6,7 +6,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-192133?&style=flat-square&logo=Kotlin&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-192133?&logo=Lua&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?&logo=Python&logoColor=white)
-
 
 ### Stats
 

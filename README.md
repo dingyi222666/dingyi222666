@@ -1,4 +1,4 @@
-## Hey Hi there 👋
+## Hi there <img alt="wave" src="https://cdn.staticaly.com/gh/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Skills
 
@@ -8,7 +8,6 @@
 ![Python](https://img.shields.io/badge/-Python-192133?&logo=Python&logoColor=white)
 
 ### Stats
-
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dingyi222666&show_icons=true&icon_color=47A69E&title_color=47A69E&count_private=true)    
 

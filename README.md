@@ -2,7 +2,6 @@
 
 ### Skills
 
-
 ![Java](https://img.shields.io/badge/-Java-192133?&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-192133?&style=flat-square&logo=Kotlin&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-192133?&logo=Lua&logoColor=white)

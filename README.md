@@ -1,12 +1,9 @@
 ## Hi there <img alt="wave" src="https://cdn.staticaly.com/gh/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Skills
-
-
-![Java](https://img.shields.io/badge/-Java-192133?&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-192133?&style=flat-square&logo=Kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-192133?&logo=Lua&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-192133?&logo=Python&logoColor=white)
+- Freelance
+- Kotlin, Lua, Java Developer
+- also good at a little Python, Javascript
+- The goal is to create a comprehensive mobile IDE
 
 ### Stats
 

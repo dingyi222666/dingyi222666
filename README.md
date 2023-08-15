@@ -2,8 +2,7 @@
 
 - Freelance
 - Kotlin, Lua, Java Developer
-- also good at a little Python, Javascript
-- The goal is to create a comprehensive mobile IDE
+- also good at a little Python, Typescript
 
 ### Stats
 

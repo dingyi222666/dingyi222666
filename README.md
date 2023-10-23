@@ -1,8 +1,9 @@
 ## Hi there <img alt="wave" src="https://cdn.staticaly.com/gh/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - Freelance
-- Kotlin, Lua, Java Developer
-- also good at a little Python, Typescript
+- Kotlin, Lua Developer
+- Also good at a little Typescript, Python
+- Play osu!，l4d2，and more
 
 ### Stats
 

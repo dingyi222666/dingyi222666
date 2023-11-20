@@ -4,6 +4,7 @@
 - Kotlin, Lua Developer
 - Also good at a little Typescript, Python
 - Play osu!, l4d2, and more
+- Currently working [ChatLuna](https://github.com/ChatLunaLab/chatluna)
 
 ### Stats
 

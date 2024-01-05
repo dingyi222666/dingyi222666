@@ -3,8 +3,8 @@
 - Freelance
 - Kotlin, Lua Developer
 - Also good at a little Typescript, Python
-- Play osu!, Muse Dash, l4d2, and more
-- Currently working [ChatLuna](https://github.com/ChatLunaLab/chatluna)
+- Play osu!, Muse Dash, l4d2, and more game
+- Currently working [ChatLuna](https://github.com/ChatLunaLab), [AndroCode](https://github.com/dingyi222666/AndroCode)
 
 ### Stats
 

@@ -2,7 +2,7 @@
 
 - Freelance
 - Kotlin, Lua Developer
-- Also good at a little Typescript, Python
+- Also good at a little Java，Typescript, Python
 - Play osu!, l4d2, and more game
 - Currently working [ChatLuna](https://github.com/ChatLunaLab), [lua-parser](https://github.com/dingyi222666/lua-parser), [AndroCode](https://github.com/dingyi222666/AndroCode)
 

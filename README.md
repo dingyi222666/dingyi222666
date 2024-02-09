@@ -1,4 +1,4 @@
-## Hi there <img alt="wave" src="https://cdn.staticaly.com/gh/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - Freelance
 - Kotlin, Lua Developer
@@ -13,3 +13,17 @@
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dingyi222666&layout=compact&title_color=47A69E&hide=html,css,c,c%2B%2B)   
 
 ![](https://komarev.com/ghpvc/?username=dingyi222666)  
+
+### 📊 Yearly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+Go                         101 hrs 50 mins ████████████▓░░░░░░░░░░░░   50.82 %
+TypeScript                 44 hrs 12 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+YAML                       9 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Vue.js                     8 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JSON                       5 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+```
+
+<!--END_SECTION:waka-->

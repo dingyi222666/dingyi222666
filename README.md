@@ -12,8 +12,6 @@
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dingyi222666&layout=compact&title_color=47A69E&hide=html,css,c,c%2B%2B)   
 
-![](https://komarev.com/ghpvc/?username=dingyi222666)  
-
 ### 📊 Yearly Development Breakdown
 
 <!--START_SECTION:waka-->
@@ -27,3 +25,5 @@ Lua                     30 hrs 25 mins  █░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=dingyi222666)  

@@ -1,4 +1,4 @@
-## Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 
 - Freelance
 - Kotlin, Lua Developer
@@ -6,7 +6,7 @@
 - Play osu!, l4d2, and more game
 - Currently working [ChatLuna](https://github.com/ChatLunaLab), [lua-parser](https://github.com/dingyi222666/lua-parser), [AndroCode](https://github.com/dingyi222666/AndroCode)
 
-### Stats
+### 📋Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dingyi222666&show_icons=true&icon_color=47A69E&title_color=47A69E&count_private=true)    
 

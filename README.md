@@ -26,4 +26,4 @@ Lua                     30 hrs 25 mins  █░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=dingyi222666)  
+![](https://komarev.com/ghpvc/?username=dingyi222666)

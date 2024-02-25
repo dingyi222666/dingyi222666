@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript              462 hrs 37 mins ███████████████▒░░░░░░░░░   61.77 %
-Kotlin                  97 hrs 45 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Markdown                45 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-JSON                    38 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-JavaScript              30 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+TypeScript              466 hrs 12 mins ███████████████▒░░░░░░░░░   61.87 %
+Kotlin                  97 hrs 45 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Markdown                45 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+JSON                    39 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JavaScript              30 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->

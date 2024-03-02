@@ -15,6 +15,7 @@
 
 ### 📊 Yearly Development Breakdown
 
+
 <!--START_SECTION:waka-->
 
 ```txt

@@ -12,7 +12,6 @@
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dingyi222666&layout=compact&title_color=47A69E&hide=html,css,c,c%2B%2B)   
 
-
 ### 📊 Yearly Development Breakdown
 
 <!--START_SECTION:waka-->

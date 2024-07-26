@@ -1,6 +1,6 @@
 ## <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 
-- Look for a Remote work
+- Look for an Remote work
 - Kotlin，Typescript, Lua Developer
 - Also good at a little Java, Python
 - Play [osu! mania](https://osu.ppy.sh/users/29808669), l4d2, and more game

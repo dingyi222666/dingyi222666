@@ -11,7 +11,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dingyi222666&show_icons=true&icon_color=47A69E&title_color=47A69E&count_private=true)    
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dingyi222666&layout=compact&title_color=47A69E&hide=html,css,c,c%2B%2B)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dingyi222666&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dingyi222666&theme=nord_dark&utcOffset=8)
 
 ### 📊 Yearly Development Breakdown
 

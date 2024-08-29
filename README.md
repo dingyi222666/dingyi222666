@@ -11,7 +11,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dingyi222666&show_icons=true&icon_color=47A69E&title_color=47A69E&count_private=true)    
 
-![](https://api.githubtrends.io/user/svg/dingyi222666/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)
+![](https://api.githubtrends.io/user/svg/dingyi222666/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=bright_lights)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dingyi222666&theme=nord_dark&utcOffset=8)
 

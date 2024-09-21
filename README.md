@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript              338 hrs         ████████████▒░░░░░░░░░░░░   49.98 %
+TypeScript              338 hrs 28 mins ████████████▓░░░░░░░░░░░░   50.05 %
 Kotlin                  120 hrs 6 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
-JSON                    48 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+JSON                    47 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 Vue.js                  38 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-JavaScript              34 hrs 11 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+JavaScript              34 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->

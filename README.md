@@ -1,9 +1,8 @@
 ## <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 
-- Look for a remote work
-- Kotlin, Typescript, Lua Developer
-- Also good at a little Java, Python
-- Play [osu! mania](https://osu.ppy.sh/users/29808669), l4d2, and more game
+- Android（Kotlin/Java）, Typescript, Lua Developer
+- Also good at a little Python, C# Also good at a little Python, C#
+- Play [osu! mania](https://osu.ppy.sh/users/29808669), maimai DX, Chunithm, l4d2, and more game
 - Currently working [ChatLuna](https://github.com/ChatLunaLab), [lua-parser](https://github.com/dingyi222666/lua-parser)
 - email: [dingyi222666@foxmail.com](mailto:dingyi222666@foxmail.com)
 

@@ -1,6 +1,6 @@
 ## <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 
-- Android（Kotlin/Java）, Typescript, Lua Developer
+- Android (Kotlin/Java), Typescript, Lua Developer
 - Also good at a little Python, C#
 - Play [osu! mania](https://osu.ppy.sh/users/29808669), maimai, chunithm, l4d2, and more game
 - Currently working [ChatLuna](https://github.com/ChatLunaLab), [lua-parser](https://github.com/dingyi222666/lua-parser)

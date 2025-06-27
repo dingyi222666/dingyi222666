@@ -20,12 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript             580 hrs 54 mins ██████████████▓░░░░░░░░░░   58.88 %
-Vue.js                 114 hrs 24 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+TypeScript             580 hrs 54 mins ██████████████▓░░░░░░░░░░   58.87 %
+Vue.js                 114 hrs 24 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
 Markdown               60 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 JSON                   50 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 YAML                   46 hrs 55 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=dingyi222666)

@@ -1,4 +1,4 @@
- ## <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
+## <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 
 - Android (Kotlin/Java), Typescript, Lua Developer
 - Also good at a little Python, C#

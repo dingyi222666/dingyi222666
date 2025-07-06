@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript             579 hrs 41 mins ██████████████▓░░░░░░░░░░   59.28 %
+TypeScript             579 hrs 40 mins ██████████████▓░░░░░░░░░░   59.28 %
 Vue.js                 114 hrs 24 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
 Markdown               60 hrs 46 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 JSON                   49 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %

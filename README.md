@@ -22,6 +22,7 @@ Hello! I'm **dingyi**, and you can also call me **dingyi222666** (this is my com
 
 <!--START_SECTION:waka-->
 
+
 ```txt
 TypeScript             591 hrs 56 mins ███████████████░░░░░░░░░░   59.39 %
 Vue.js                 117 hrs 19 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %

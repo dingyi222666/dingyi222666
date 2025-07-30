@@ -21,7 +21,6 @@ Hello! I'm **dingyi**, and you can also call me **dingyi222666** (this is my com
 ### 📊 Yearly Development Breakdown
 
 <!--START_SECTION:waka-->
-
 ```txt
 TypeScript             590 hrs 10 mins ██████████████▓░░░░░░░░░░   59.32 %
 Vue.js                 117 hrs 19 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %

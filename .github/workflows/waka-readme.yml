@@ -16,3 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_year
           SHOW_TIME: true
+          COMMITTER_NAME: dingyi222666
+          COMMITTER_EMAIL: dingyi222666@foxmail.com

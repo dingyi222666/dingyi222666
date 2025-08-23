@@ -32,4 +32,4 @@ Kotlin                 39 hrs 48 mins  █░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=dingyi222666)
+[![wakatime](https://wakatime.com/badge/user/1e2214c3-b9c7-4bf8-94e7-d9d08f7c4254.svg)](https://wakatime.com/@1e2214c3-b9c7-4bf8-94e7-d9d08f7c4254) ![](https://komarev.com/ghpvc/?username=dingyi222666)

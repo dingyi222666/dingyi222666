@@ -23,10 +23,10 @@ Hello! I'm **dingyi**, and you can also call me **dingyi222666** (this is my com
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript             540 hrs 28 mins ███████████████▒░░░░░░░░░   60.90 %
+TypeScript             540 hrs 19 mins ███████████████▒░░░░░░░░░   60.87 %
 Vue.js                 81 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 Markdown               59 hrs 48 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-JSON                   47 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JSON                   47 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 Kotlin                 41 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 

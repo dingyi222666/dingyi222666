@@ -4,10 +4,10 @@ Hello! I'm **dingyi**, and you can also call me **dingyi222666** (this is my com
 
 ### About me
 
-- Android (Kotlin/Java), Typescript, Lua Developer
-- Also good at a little Python, C#
+- Android (Kotlin/Java), Typescript, Lua Developer.
+- Also good at a little Python, C#.
 - Play [osu! mania](https://osu.ppy.sh/users/29808669), chunithm, l4d2.
-- Currently working [ChatLuna](https://github.com/ChatLunaLab)
+- Currently working [ChatLuna](https://github.com/ChatLunaLab).
 - How to reach me: [dingyi222666@foxmail.com](mailto:dingyi222666@foxmail.com)
 
 ### 📋Stats

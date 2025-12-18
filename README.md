@@ -26,7 +26,7 @@ Hello! I'm **dingyi**, and you can also call me **dingyi222666** (this is my com
 TypeScript             567 hrs 24 mins ██████████████▓░░░░░░░░░░   58.09 %
 Kotlin                 109 hrs 40 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
 Vue.js                 80 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-JSON                   52 hrs 8 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON                   52 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 Markdown               44 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 

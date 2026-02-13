@@ -9,6 +9,7 @@ Hello! I'm **dingyi**, and you can also call me **dingyi222666** (this is my com
 - Play [osu! mania](https://osu.ppy.sh/users/29808669), chunithm, l4d2.
 - Currently working [ChatLuna](https://github.com/ChatLunaLab).
 - How to reach me: [dingyi222666@foxmail.com](mailto:dingyi222666@foxmail.com)
+- Sponsor me: [Afadian](https://afdian.com/a/dingyi222666) or [osu! supporter](https://osu.ppy.sh/store/products/208) (player name: "dingyi"), thank you!
 
 ### 📋Stats
 
